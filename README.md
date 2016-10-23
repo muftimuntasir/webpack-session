@@ -122,7 +122,9 @@ For your better understanding i am providing many of sample plugins depnedencies
 	Util: "exports?Util!bootstrap/js/dist/util"
 ```
 	Step -2:
-	Now we need to import the loader if we need to use it (@main.js). It has many ways to import. These are follows:
+	Now we need to import the loader if we need to use it (@main.js). It has many ways to import. 
+	These are follows:
+	
 ```javascript
 	import 'bootstrap';
 	import bootstrap from 'bootstrap';
